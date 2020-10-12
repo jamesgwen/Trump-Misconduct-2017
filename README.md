@@ -4,4 +4,4 @@ This short project looks at the public's changing opinions on government officia
 Data is from Bright Line Watch.<br/>
 
 
-<img align="left" width="460" height="300" src="https://github.com/jamesgwen/Trump-Misconduct-2017/blob/main/Trump_Figure.png">
+<img align="left" width="600" height="391" src="https://github.com/jamesgwen/Trump-Misconduct-2017/blob/main/Trump_Figure.png">
